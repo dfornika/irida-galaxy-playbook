@@ -1,0 +1,20 @@
+- src: https://github.com/galaxyproject/ansible-postgresql.git
+  name: galaxyproject.postgresql
+  version: 1.0.1
+
+- src: https://github.com/natefoo/ansible-postgresql-objects.git
+  name: natefoo.postgresql_objects
+
+- src: https://github.com/galaxyproject/ansible-nginx.git
+  name: galaxyproject.nginx
+  version: 0.6.0
+  
+- src: https://github.com/galaxyproject/ansible-galaxy.git
+  name: galaxyproject.galaxy
+  version: 0.8.3
+
+- src: https://github.com/galaxyproject/ansible-galaxy-extras.git
+  name: galaxyproject.galaxy-extras
+
+- src: https://github.com/galaxyproject/ansible-galaxy-tools.git
+  name: galaxyproject.galaxy-tools

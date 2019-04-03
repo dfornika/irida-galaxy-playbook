@@ -1,0 +1,295 @@
+tools:
+- name: shovill
+  owner: iuc
+  revisions:
+  - 57d5928f456e
+  tool_panel_section_name: Get Data
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: regex_find_replace
+  owner: jjohnson
+  revisions:
+  - 9ea374bb0350
+  tool_panel_section_name: Text Manipulation
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: prokka
+  owner: crs4
+  revisions:
+  - f5e44aad6498
+  tool_panel_section_name: Extract Features
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: newick_display
+  owner: dcorreia
+  revisions:
+  - 5c11638687d0
+  tool_panel_section_name: IRIDA
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: core_pipeline
+  owner: irida
+  revisions:
+  - 0737c0310cab
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: freebayes
+  owner: irida
+  revisions:
+  - 386bc6e45b68
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: phyml
+  owner: irida
+  revisions:
+  - b5867c5c7674
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: smalt_collection
+  owner: irida
+  revisions:
+  - de3e46eaf5ba
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: regex_find_replace
+  owner: jjohnson
+  revisions:
+  - 3205c22bc968
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: freebayes
+  owner: devteam
+  revisions:
+  - 85b0800adde2
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: phyml
+  owner: nml
+  revisions:
+  - 3d333c2794cd
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: snp_matrix
+  owner: nml
+  revisions:
+  - dc0d642f99f9
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: find_repeats
+  owner: nml
+  revisions:
+  - 24115a1dc6ab
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: bcftools_view
+  owner: nml
+  revisions:
+  - ab7dd0c4b291
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: smalt_index
+  owner: nml
+  revisions:
+  - a70039170622
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: verify_map
+  owner: nml
+  revisions:
+  - 18c9ec42a345
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: bcftools_call
+  owner: nml
+  revisions:
+  - c714f9245406
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: smalt_map
+  owner: nml
+  revisions:
+  - 53afba1a2160
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: vcf2pseudoalignment
+  owner: nml
+  revisions:
+  - a5dccc947e1d
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: filter_vcf
+  owner: nml
+  revisions:
+  - 72477d1cd412
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: samtools_mpileup
+  owner: devteam
+  revisions:
+  - 81948c6e4d4d
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: freebayes
+  owner: nml
+  revisions:
+  - 114e557ab622
+  tool_panel_section_name: ''
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: bio_hansel
+  owner: nml
+  revisions:
+  - 4654c51dae72
+  tool_panel_section_name: IRIDA
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: mentalist
+  owner: dfornika
+  revisions:
+  - a6cd59f35832
+  tool_panel_section_name: IRIDA
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: combine_tabular_collection
+  owner: nml
+  revisions:
+  - b815081988b5
+  tool_panel_section_name: IRIDA
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: refseq_masher
+  owner: nml
+  revisions:
+  - 26df66c32861
+  tool_panel_section_name: IRIDA
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: sistr_cmd
+  owner: nml
+  revisions:
+  - 5c8ff92e38a9
+  tool_panel_section_name: IRIDA
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: spades
+  owner: nml
+  revisions:
+  - 35cb17bd8bf9
+  tool_panel_section_name: IRIDA
+  tool_shed_url: toolshed.g2.bx.psu.edu
+- name: vcf2snvalignment
+  owner: nml
+  revisions:
+  - 4c99f0d32983
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: filter_density
+  owner: nml
+  revisions:
+  - d33b52ed909b
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: verify_map
+  owner: nml
+  revisions:
+  - c50b63008cc9
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: snv_matrix
+  owner: nml
+  revisions:
+  - ef76fcf5a209
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: positions2snv_invariant_alignment
+  owner: nml
+  revisions:
+  - b176270b8a9f
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: filter_vcf
+  owner: nml
+  revisions:
+  - dc4f6d16339c
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: smalt_map
+  owner: nml
+  revisions:
+  - 62faa1906fd7
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: find_repeats
+  owner: nml
+  revisions:
+  - ab7b9169e516
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: smalt_index
+  owner: nml
+  revisions:
+  - 1e249f90f2a6
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: filter_stats
+  owner: nml
+  revisions:
+  - 416082f5d12d
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: phyml
+  owner: nml
+  revisions:
+  - fdb1cddf0dbd
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: consolidate_vcfs
+  owner: nml
+  revisions:
+  - 924d0f651195
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: collapse_collections
+  owner: nml
+  revisions:
+  - 7e5a39b5dad3
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: positions2snv_alignment
+  owner: nml
+  revisions:
+  - 5af8a4bde984
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: bcftools_call
+  owner: nml
+  revisions:
+  - 98f8a44014c1
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: bcftools_view
+  owner: nml
+  revisions:
+  - 3628f89cb4ee
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: bundle_collections
+  owner: irida
+  revisions:
+  - 7bc329e1ada4
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: combine_assembly_stats
+  owner: irida
+  revisions:
+  - c970d74729e9
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: assemblystats
+  owner: irida
+  revisions:
+  - 51b76a5d78a5
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: filter_spades_repeats
+  owner: irida
+  revisions:
+  - f9fc830fa47c
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
+- name: flash
+  owner: irida
+  revisions:
+  - 4287dd541327
+  tool_panel_section_name: IRIDA
+  tool_shed_url: irida.corefacility.ca/galaxy-shed
